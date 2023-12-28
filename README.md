@@ -1,4 +1,6 @@
 # CVTGAN
-Project of a 3D Version of CVT for PET reconstruction. All codes will be arranged and uploaded later.
+Project of GANs for PET reconstruction. 
 
-[update] codes of my extension work will also be uploaded here.
+[update] codes of my extension works will also be uploaded here.
+
+I will rearrange the project to a more formal version when convenient, since for now it's a mess
