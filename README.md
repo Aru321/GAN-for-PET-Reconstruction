@@ -1,4 +1,4 @@
-# CVTGAN
+
 Project of GANs for PET reconstruction. 
 
 [update] codes of my extension works will also be uploaded here.
